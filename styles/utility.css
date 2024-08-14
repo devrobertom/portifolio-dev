@@ -1,0 +1,30 @@
+.subtitle{
+    font: var(--subtitle);
+}
+
+.title-lg{
+    font: var(--title-lg);
+    color: var(--base-600);
+}
+
+.title-md{
+    font: var(--title-md);
+}
+
+.text-sm{
+    font: var(--text-sm);
+}
+
+
+
+.base-400{
+    color: var(--base-400);
+}
+
+.base-500{
+    color: var(--base-500);
+}
+
+.midias{
+    gap: 16px;
+}
