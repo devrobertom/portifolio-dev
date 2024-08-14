@@ -38,18 +38,19 @@ header h1{
     color: var(--cor-r);
 }
 
-ul{
+header ul{
     justify-content: center;
     margin-top: 80px;
     display: flex;
 }
 
-li{
+header li{
     background-color: var(--base-300);
     color: var(--base-500);
     font: var(--text-md);
     border-radius: 30px;
-    padding: 8px 16px; 
+    padding: 8px 16px;
+    list-style: none; 
 }
 
 div.li{

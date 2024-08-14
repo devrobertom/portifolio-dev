@@ -5,8 +5,25 @@
     padding: 0;
 }
 
-.work p{
+.work p:nth-child(1){
     margin-top: 72px;
     color: var(--cor-r);
     text-align: center;
+    margin-bottom: 8px;
+}
+
+.work h1{
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.work ul{
+    display: grid;
+    grid-template-areas: 
+    'A B C'
+    'D E F';
+}
+
+.work > div > h1{
+    padding-top: 8px;
 }

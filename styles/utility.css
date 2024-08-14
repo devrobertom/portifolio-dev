@@ -9,6 +9,11 @@
 
 .title-md{
     font: var(--title-md);
+    color: var(--base-600);
+}
+
+.title-sm{
+    font: var(--title-sm);
 }
 
 .text-sm{
@@ -23,6 +28,10 @@
 
 .base-500{
     color: var(--base-500);
+}
+
+.base-600{
+    color: var(--base-600);
 }
 
 .midias{
